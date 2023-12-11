@@ -1,7 +1,7 @@
 streamlit
 openai
 pandas 
-BeautifulSoup
+bs4
 requests
 googletrans
 newspaper 
